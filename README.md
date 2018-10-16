@@ -24,8 +24,6 @@ Core Concepts I learned Completing this Project:
 -	Implement the Preference Fragment 
 -	Launch a Settings Activity from a menu in the Main Activity
 -	Use Uri.Builder class to add query parameters to the URL
--	Launch a Settings Activity from a menu in the Main Activity
--	Use Uri.Builder class to add query parameters to the URL
 -	Update and display the Preference Summary
 
 <img src="GoodNightNews\MainPage.png" width="350" height="620"> <img src="GoodNightNews\SettingsActivity.png" width="350" height="620">
